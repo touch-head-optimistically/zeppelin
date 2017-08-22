@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "MasterB Season 2017"
+title: "饿鸡传说"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "饿鸡传说"
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -61,7 +61,7 @@ eventDate: "September - November, 2014"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a sick chicken"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
